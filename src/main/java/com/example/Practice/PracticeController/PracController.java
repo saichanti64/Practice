@@ -11,7 +11,9 @@ public class PracController {
 
     @GetMapping("/getPrac")
     public String getDetails(){
+        //comment line
         return "Getting Practice Details";
+        
     }
 
 }
