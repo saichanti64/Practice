@@ -11,7 +11,7 @@ public class PracController {
 
     @GetMapping("/getPrac")
     public String getDetails(){
-        //comment line
+        //comment line modified in master
 
         // feature comment
         return "Getting Practice Details";
